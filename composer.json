@@ -1,5 +1,5 @@
 {
-    "name": "advanced_comments",
+    "name": "coldtrick/advanced_comments",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
